@@ -3,7 +3,7 @@
 Repositorio dedicado a la documentación técnica, investigación de vulnerabilidades y reportes de Bug Bounty. 
 
 ### ⚖️ Divulgación Responsable 
-> **Disclaimer:** Todos los reportes técnicos y Pruebas de Concepto (PoC) documentados en este repositorio han sido publicados **exclusivamente** después de recibir la autorización del programa o empresa afectada, siguiendo estrictamente sus políticas de divulgación responsable y una vez que la vulnerabilidad ha sido parcheada. 
+> **Disclaimer:** Todos los reportes técnicos y Pruebas de Concepto documentados en este repositorio han sido publicados **exclusivamente** después de recibir la autorización del programa o empresa afectada, siguiendo estrictamente sus políticas de divulgación responsable y una vez que la vulnerabilidad ha sido parcheada. 
 
 ---
 
